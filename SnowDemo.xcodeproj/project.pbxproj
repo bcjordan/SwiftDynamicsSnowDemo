@@ -13,6 +13,7 @@
 		D3031E481AC105080019CEB2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3031E471AC105080019CEB2 /* Images.xcassets */; };
 		D3031E4B1AC105080019CEB2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3031E491AC105080019CEB2 /* LaunchScreen.xib */; };
 		D3031E571AC105080019CEB2 /* SnowDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3031E561AC105080019CEB2 /* SnowDemoTests.swift */; };
+		D3031E611AC1052E0019CEB2 /* SnowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3031E601AC1052E0019CEB2 /* SnowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D3031E501AC105080019CEB2 /* SnowDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnowDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3031E551AC105080019CEB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3031E561AC105080019CEB2 /* SnowDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowDemoTests.swift; sourceTree = "<group>"; };
+		D3031E601AC1052E0019CEB2 /* SnowViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D3031E401AC105080019CEB2 /* AppDelegate.swift */,
 				D3031E421AC105080019CEB2 /* ViewController.swift */,
 				D3031E441AC105080019CEB2 /* Main.storyboard */,
+				D3031E601AC1052E0019CEB2 /* SnowViewController.swift */,
 				D3031E471AC105080019CEB2 /* Images.xcassets */,
 				D3031E491AC105080019CEB2 /* LaunchScreen.xib */,
 				D3031E3E1AC105080019CEB2 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				D3031E431AC105080019CEB2 /* ViewController.swift in Sources */,
 				D3031E411AC105080019CEB2 /* AppDelegate.swift in Sources */,
+				D3031E611AC1052E0019CEB2 /* SnowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
