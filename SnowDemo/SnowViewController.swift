@@ -63,6 +63,7 @@ class SnowViewController: UIViewController, UICollisionBehaviorDelegate {
             snowView.alpha = 0.0
             }, completion: { (bool: Bool) -> Void in
                 self.collision.removeItem(snowView)
+                self.gravity.removeItem(snowView)
                 snowView.removeFromSuperview()
         })
     }

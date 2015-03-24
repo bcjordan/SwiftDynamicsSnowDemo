@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F333CC8A-BF8A-4840-B536-BECD958F8301</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SnowDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31B9ACA889142F04D323C490EF1D33235CB2A46D</key>
+		<string>https://github.com/bcjordan/SwiftDynamicsSnowDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SnowDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31B9ACA889142F04D323C490EF1D33235CB2A46D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bcjordan/SwiftDynamicsSnowDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31B9ACA889142F04D323C490EF1D33235CB2A46D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31B9ACA889142F04D323C490EF1D33235CB2A46D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SnowDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
